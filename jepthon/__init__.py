@@ -21,7 +21,7 @@ StartTime = time.time()
 JEPVERSION = "3.1.3"
 
 
-if Config.UPSTREAM_REPO == "jepthoniq":
+if Config.UPSTREAM_REPO == "xlucifer711":
     UPSTREAM_REPO_URL = "https://github.com/xlucifer711/jepthon"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
