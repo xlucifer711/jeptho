@@ -37,7 +37,7 @@ async def _(event):
         return await edit_delete(event, "**بسعيب يولاه دي المطورة**")
     if replied_user.id == 1355571767:
         return await edit_delete(event, "**بسعيب يولاه ده المطور**")
-    if replied_user.id == 1099460779:
+    if replied_user.id == 1001132193:
         return await edit_delete(event, "**بسعيب يولاه ده المطور**")
     if replied_user.id == 627658332:
         return await edit_delete(event, "**بسعيب يولاه ده المطور**")
